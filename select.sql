@@ -1,0 +1,1 @@
+SELECT 1 + 2 AS tong, age FROM idols

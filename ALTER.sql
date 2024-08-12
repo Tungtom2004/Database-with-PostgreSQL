@@ -1,0 +1,1 @@
+ALTER TABLE idols RENAME TO idol
